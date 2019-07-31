@@ -1,0 +1,22 @@
+header{
+    background: rgb(12, 5, 119);
+    color: #fff;
+}
+
+.main{
+    background: #f2f2f2;
+}
+
+.color1{
+    background: #34495e;
+}
+
+aside{
+    background: #c0392b;
+    color: black;
+}
+
+footer{
+    background: rgb(19, 6, 134);
+    color: black;
+}

@@ -1,0 +1,76 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.flex{
+    display:flex;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.container{
+    margin: 0 auto;
+    width: 90%;
+}
+
+.columna{
+    background: rgb(228, 228, 228);
+    color: #333;
+    border: 1px solid #333;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: -10px -10px 5px  #888; /* primer valor eje x abajo, segundo valor eje y lado derecho, tercer valor degradado de la sombra. Para lados opuestos con valores negativos */
+
+}
+
+h2{
+    font-weight: 400;
+}
+
+p{
+    font-weight: 300;
+}
+
+/* lista de precios */
+
+.precio1{
+    color: rgb(15, 148, 148);
+    font-size: 50px;
+}
+
+.precio2{
+    color: rgb(241, 81, 108);
+    font-size: 50px;
+}
+
+.precio3{
+    color: purple;
+    font-size:50px;
+}
+.precio4{
+    color: rgb(21, 221, 21);
+    font-size: 50px;
+}
+
+.btn-precio1{
+    background: rgb(15, 148, 148);
+    display: block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-precio1:hover{
+    background: rgb(26, 182, 182);
+}
+
+.btn-precio2:hover{
+    background: rgb(241, 81, 108);
+}
+
+
+
